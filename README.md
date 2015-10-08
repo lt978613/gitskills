@@ -1,4 +1,4 @@
 # gitskills
 dev branch test`
-do  somethings
+master do  somethings
 do something
